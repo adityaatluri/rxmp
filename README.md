@@ -1,2 +1,2 @@
-# ROC-mp
+# Rxmp
 Multi-Precision Math library for ROCm
